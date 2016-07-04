@@ -1,10 +1,10 @@
 ## CODE BOOK
 
-subject  - The ID of the test subject
+SUBJECT  - The ID of the test subject
 
-activity  - Type of activity performed when the corresponding measurements were taken
+ACTIVITY  - Type of activity performed when the corresponding measurements were taken
 
-# MEASUREMENTS
+MEASUREMENTS
 
 ##  [1] "timeBodyAccelerometer-mean()-X"                
 ##  [2] "timeBodyAccelerometer-mean()-Y"                
@@ -73,7 +73,7 @@ activity  - Type of activity performed when the corresponding measurements were 
 ## [65] "frequencyBodyGyroscopeJerkMagnitude-mean()"    
 ## [66] "frequencyBodyGyroscopeJerkMagnitude-std()" 
 
-## ACTIVITY LABELS
+ACTIVITY LABELS
 
   [1] WALKING
  
