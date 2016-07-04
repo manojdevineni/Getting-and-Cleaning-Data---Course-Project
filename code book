@@ -6,10 +6,10 @@ ACTIVITY  - Type of activity performed when the corresponding measurements were 
 
 MEASUREMENTS
 
-##  [1] "timeBodyAccelerometer-mean()-X"                
-##  [2] "timeBodyAccelerometer-mean()-Y"                
-##  [3] "timeBodyAccelerometer-mean()-Z"                
-##  [4] "timeBodyAccelerometer-std()-X"                 
+[1] "timeBodyAccelerometer-mean()-X"                
+[2] "timeBodyAccelerometer-mean()-Y"                
+[3] "timeBodyAccelerometer-mean()-Z"                
+[4] "timeBodyAccelerometer-std()-X"                 
 ##  [5] "timeBodyAccelerometer-std()-Y"                 
 ##  [6] "timeBodyAccelerometer-std()-Z"                 
 ##  [7] "timeGravityAccelerometer-mean()-X"             
